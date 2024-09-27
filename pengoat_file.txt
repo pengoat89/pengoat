@@ -1,0 +1,21 @@
+||exoclick.com^$3p
+||pemsrv.com^
+||clarity.ms^
+||magsrv.com^
+||imasdk.googleapis.com^
+||googletagmanager.com^
+||juicyads.com^
+||hm.baidu.com^
+porn5f.com#?#.row:has(> div.col-lg-3 > div[style] > div.carousel-inner > p.ad-title)
+porn5f.com##.alb_320x250
+porn5f.com##.mobframe
+porn5f.com##.preroll-adv-two
+porn5f.com###dprecommend
+porn5f.com###main_video_block > .m-t-5.pull-right
+porn5f.com##.aa-dd-body
+porn5f.com##.bxslider
+porn5f.com##.position_fix_bottom
+porn5f.com##.preroll-adv-popup-iframe
+javdove.com,javdove2.club,porn5f.com##.preroll-adv-popup-overlay
+porn5f.com##.video-promote-adv
+porn5f.com##.hidden-xs.footer-links

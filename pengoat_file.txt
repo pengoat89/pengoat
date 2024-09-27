@@ -1,11 +1,3 @@
-||exoclick.com^$3p
-||pemsrv.com^
-||clarity.ms^
-||magsrv.com^
-||imasdk.googleapis.com^
-||googletagmanager.com^
-||juicyads.com^
-||hm.baidu.com^
 porn5f.com#?#.row:has(> div.col-lg-3 > div[style] > div.carousel-inner > p.ad-title)
 porn5f.com##.alb_320x250
 porn5f.com##.mobframe
